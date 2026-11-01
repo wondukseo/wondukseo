@@ -14,13 +14,13 @@ I enjoy hands-on machine learning challenges, from applied prediction to scienti
 
 ![ChatGPT account token activity, shown as colors only](assets/chatgpt-token-activity.svg)
 
-Daily account activity reported through Codex. Colors show relative activity; exact token counts stay private. Outlined dates have no reported data. [How this updates](docs/TOKEN_ACTIVITY.md)
+Daily activity, shown as colors only. Outlined dates have no reported data.
 
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wondukseo&show_icons=true&hide_border=true&theme=transparent" alt="Wonduk's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondukseo&layout=compact&hide_border=true&theme=transparent" alt="Most used GitHub languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=wondukseo&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;disable_animations=true" alt="Wonduk's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wondukseo&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;disable_animations=true" alt="Most used GitHub languages" />
 </p>
 
 ---
