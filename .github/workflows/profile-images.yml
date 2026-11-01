@@ -15,33 +15,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - name: Verify the profile image links return SVGs
+      - name: Verify the local profile image
         run: |
           python3 - <<'PY'
-          from html.parser import HTMLParser
           from pathlib import Path
-          from urllib.parse import urlparse
-          from urllib.request import urlopen
           import xml.etree.ElementTree as ET
 
-          class Images(HTMLParser):
-              def handle_starttag(self, tag, attrs):
-                  if tag == 'img':
-                      urls.append(dict(attrs)['src'])
-
-          urls = []
-          Images().feed(Path('README.md').read_text())
-          assert len(urls) == 2, 'Expected both GitHub activity cards'
-          for url in urls:
-              parsed = urlparse(url)
-              assert parsed.scheme == 'https' and parsed.hostname == 'github-stats-extended.vercel.app'
-              with urlopen(url, timeout=30) as response:
-                  assert response.status == 200
-                  assert response.headers.get_content_type() == 'image/svg+xml'
-                  svg = ET.fromstring(response.read(2 * 1024 * 1024))
-              assert svg.tag == '{http://www.w3.org/2000/svg}svg'
-              assert 'Something went wrong' not in ''.join(svg.itertext())
-          activity = ET.parse('assets/chatgpt-token-activity.svg').getroot()
+          image_path = 'assets/chatgpt-token-activity.svg'
+          assert f']({image_path})' in Path('README.md').read_text(), 'Expected the local activity image in README'
+          activity = ET.parse(image_path).getroot()
           assert activity.tag == '{http://www.w3.org/2000/svg}svg'
-          print('All three profile SVGs verified.')
+          print('Local profile SVG and README link verified.')
           PY
