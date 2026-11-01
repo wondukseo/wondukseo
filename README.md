@@ -10,8 +10,6 @@
 
 I enjoy hands-on machine learning challenges, from applied prediction to scientific discovery. [Explore my Kaggle profile](https://www.kaggle.com/wonduk).
 
-### 🌱 ChatGPT Token Activity
-
 ![ChatGPT account token activity, shown as colors only](assets/chatgpt-token-activity.svg)
 
 Daily activity, shown as colors only. Outlined dates have no reported data.
