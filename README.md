@@ -10,6 +10,12 @@
 
 I enjoy hands-on machine learning challenges, from applied prediction to scientific discovery. [Explore my Kaggle profile](https://www.kaggle.com/wonduk).
 
+### 🌱 ChatGPT Token Activity
+
+![ChatGPT account token activity, shown as colors only](assets/chatgpt-token-activity.svg)
+
+Daily account activity reported through Codex. Colors show relative activity; exact token counts stay private. Outlined dates have no reported data. [How this updates](docs/TOKEN_ACTIVITY.md)
+
 ### 📈 GitHub Activity
 
 <p align="center">
