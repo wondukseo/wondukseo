@@ -14,13 +14,6 @@ I enjoy hands-on machine learning challenges, from applied prediction to scienti
 
 Daily activity, shown as colors only. Outlined dates have no reported data.
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=wondukseo&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;disable_animations=true" alt="Wonduk's GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wondukseo&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;disable_animations=true" alt="Most used GitHub languages" />
-</p>
-
 ---
 
 <p align="center">
