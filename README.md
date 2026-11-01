@@ -1,7 +1,7 @@
 ### 👋 About Me
 
 - 🦆 I'm a **PhD student in Computer Science at University College London (UCL)**.
-- 🎓 I earned my **Bachelor's degree from Peking University (PKU)**.
+- 🎓 Previously, I earned my **Bachelor's degree from Peking University (PKU)**.
 - 🧐 I'm particularly interested in **LLMs, RAG, PEFT and multi-agent reasoning**.
 - 🎾 Outside research, I enjoy playing **tennis**.
 
