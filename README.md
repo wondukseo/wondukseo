@@ -1,8 +1,8 @@
 ### 👋 About Me
 
-- 🦆 I'm a **PhD student in Computer Science at University College London (UCL)**, working on information retrieval, language models, and agent systems.
+- 🦆 I'm a **PhD student in Computer Science at University College London (UCL)**.
 - 🎓 I earned my **Bachelor's degree from Peking University (PKU)**.
-- 🧐 I'm particularly interested in **LLMs, retrieval-augmented generation (RAG), parameter-efficient fine-tuning (PEFT), and multi-agent reasoning**.
+- 🧐 I'm particularly interested in **LLMs, RAG, PEFT and multi-agent reasoning**.
 - 🎾 Outside research, I enjoy playing **tennis**.
 
 <p align="right"><a href="https://wondukseo.github.io/">More publications and research →</a></p>
