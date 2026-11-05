@@ -372,7 +372,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 <rect x="718" y="150" width="11" height="11" rx="2" class="cell unknown" aria-label="2026-10-02: No data"><title>2026-10-02: No data</title></rect>
 <rect x="718" y="164" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-03: Moderate activity"><title>2026-10-03: Moderate activity</title></rect>
 <rect x="732" y="80" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-04: Low activity"><title>2026-10-04: Low activity</title></rect>
-<rect x="732" y="94" width="11" height="11" rx="2" class="cell high" aria-label="2026-10-05: High activity"><title>2026-10-05: High activity</title></rect>
+<rect x="732" y="94" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-05: Moderate activity"><title>2026-10-05: Moderate activity</title></rect>
 <rect x="732" y="108" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-06: Moderate activity"><title>2026-10-06: Moderate activity</title></rect>
 <rect x="732" y="122" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-07: Low activity"><title>2026-10-07: Low activity</title></rect>
 <rect x="732" y="136" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-08: Low activity"><title>2026-10-08: Low activity</title></rect>
@@ -385,26 +385,27 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 <rect x="746" y="136" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-15: Low activity"><title>2026-10-15: Low activity</title></rect>
 <rect x="746" y="150" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-16: Low activity"><title>2026-10-16: Low activity</title></rect>
 <rect x="746" y="164" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-17: Low activity"><title>2026-10-17: Low activity</title></rect>
-<rect x="760" y="80" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-18: Moderate activity"><title>2026-10-18: Moderate activity</title></rect>
+<rect x="760" y="80" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-18: Low activity"><title>2026-10-18: Low activity</title></rect>
 <rect x="760" y="94" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-19: Moderate activity"><title>2026-10-19: Moderate activity</title></rect>
-<rect x="760" y="108" width="11" height="11" rx="2" class="cell high" aria-label="2026-10-20: High activity"><title>2026-10-20: High activity</title></rect>
+<rect x="760" y="108" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-20: Moderate activity"><title>2026-10-20: Moderate activity</title></rect>
 <rect x="760" y="122" width="11" height="11" rx="2" class="cell unknown" aria-label="2026-10-21: No data"><title>2026-10-21: No data</title></rect>
 <rect x="760" y="136" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-22: Low activity"><title>2026-10-22: Low activity</title></rect>
-<rect x="760" y="150" width="11" height="11" rx="2" class="cell high" aria-label="2026-10-23: High activity"><title>2026-10-23: High activity</title></rect>
-<rect x="760" y="164" width="11" height="11" rx="2" class="cell high" aria-label="2026-10-24: High activity"><title>2026-10-24: High activity</title></rect>
+<rect x="760" y="150" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-23: Moderate activity"><title>2026-10-23: Moderate activity</title></rect>
+<rect x="760" y="164" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-24: Moderate activity"><title>2026-10-24: Moderate activity</title></rect>
 <rect x="774" y="80" width="11" height="11" rx="2" class="cell high" aria-label="2026-10-25: High activity"><title>2026-10-25: High activity</title></rect>
 <rect x="774" y="94" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-26: Moderate activity"><title>2026-10-26: Moderate activity</title></rect>
 <rect x="774" y="108" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-27: Low activity"><title>2026-10-27: Low activity</title></rect>
 <rect x="774" y="122" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-28: Low activity"><title>2026-10-28: Low activity</title></rect>
 <rect x="774" y="136" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-29: Low activity"><title>2026-10-29: Low activity</title></rect>
 <rect x="774" y="150" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-30: Low activity"><title>2026-10-30: Low activity</title></rect>
-<rect x="774" y="164" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-10-31: Moderate activity"><title>2026-10-31: Moderate activity</title></rect>
+<rect x="774" y="164" width="11" height="11" rx="2" class="cell low" aria-label="2026-10-31: Low activity"><title>2026-10-31: Low activity</title></rect>
 <rect x="788" y="80" width="11" height="11" rx="2" class="cell high" aria-label="2026-11-01: High activity"><title>2026-11-01: High activity</title></rect>
 <rect x="788" y="94" width="11" height="11" rx="2" class="cell peak" aria-label="2026-11-02: Very high activity"><title>2026-11-02: Very high activity</title></rect>
 <rect x="788" y="108" width="11" height="11" rx="2" class="cell peak" aria-label="2026-11-03: Very high activity"><title>2026-11-03: Very high activity</title></rect>
-<rect x="788" y="122" width="11" height="11" rx="2" class="cell unknown" aria-label="2026-11-04: No data"><title>2026-11-04: No data</title></rect>
+<rect x="788" y="122" width="11" height="11" rx="2" class="cell low" aria-label="2026-11-04: Low activity"><title>2026-11-04: Low activity</title></rect>
+<rect x="788" y="136" width="11" height="11" rx="2" class="cell unknown" aria-label="2026-11-05: No data"><title>2026-11-05: No data</title></rect>
 </g>
-<text x="24" y="202" class="label">Updated Nov 04, 2026 UTC</text>
+<text x="24" y="202" class="label">Updated Nov 05, 2026 UTC</text>
 <rect x="244" y="193" width="11" height="11" rx="2" class="cell unknown"/>
 <text x="262" y="202" class="label">No data</text>
 <text x="634" y="202" class="label">Less</text>
