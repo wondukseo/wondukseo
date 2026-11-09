@@ -399,8 +399,8 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 <rect x="774" y="136" width="11" height="11" rx="2" class="cell peak" aria-label="2026-11-05: Very high activity"><title>2026-11-05: Very high activity</title></rect>
 <rect x="774" y="150" width="11" height="11" rx="2" class="cell high" aria-label="2026-11-06: High activity"><title>2026-11-06: High activity</title></rect>
 <rect x="774" y="164" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-11-07: Moderate activity"><title>2026-11-07: Moderate activity</title></rect>
-<rect x="788" y="80" width="11" height="11" rx="2" class="cell low" aria-label="2026-11-08: Low activity"><title>2026-11-08: Low activity</title></rect>
-<rect x="788" y="94" width="11" height="11" rx="2" class="cell unknown" aria-label="2026-11-09: No data"><title>2026-11-09: No data</title></rect>
+<rect x="788" y="80" width="11" height="11" rx="2" class="cell moderate" aria-label="2026-11-08: Moderate activity"><title>2026-11-08: Moderate activity</title></rect>
+<rect x="788" y="94" width="11" height="11" rx="2" class="cell low" aria-label="2026-11-09: Low activity"><title>2026-11-09: Low activity</title></rect>
 </g>
 <text x="24" y="202" class="label">Updated Nov 09, 2026 UTC</text>
 <rect x="244" y="193" width="11" height="11" rx="2" class="cell unknown"/>
